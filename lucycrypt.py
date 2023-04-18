@@ -3,7 +3,7 @@ import hashlib
 from Crypto.Cipher import AES
 
 # Define a senha para criptografia
-senha = "mascaro10"
+senha = "537($%@945kJGFJ%#@$"
 
 # Definindo funÃ§Ã£o para criptografar
 def criptografar_arquivo(nome_arquivo, senha):
