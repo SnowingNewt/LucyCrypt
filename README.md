@@ -19,18 +19,18 @@ Podemos usa-lo como um "Exploit em .bat" com um Digispark (ATtiny85), que uma ve
 
 ![alt text](https://i.ibb.co/5c3HNJw/2023-04-18-17-02-23.png)
 
-O SCRIPT FOI CONSTRUIDO COM BASE NA MINHA ENGENHARIA REVERSA NO PROPRIO RANSOMWARE DO WANNACRY PARA VER SUAS BIBLIOTECAS QUE FORAM USADAS JUNTO COM SUAS API'S. DURANTE MEUS ESTUDOS, POR PADRÃO ELE TAMBEM USA A CIFRA AES (Advanced Encryption Standard) COM BASE EM UMA CHAVE EM DE 128 BIT'S PARA CRIPTOGRAFIA.
+O script foi construido com base na minha engenharia reversa no proprio ransomware do wannacry para ver suas bibliotecas que foram usadas junto com suas api's. durante meus estudos, por padrão ele tambem usa a cifra aes (advanced encryption standard) com base em uma chave em de 128 bit's para criptografia.
 
-É INTERESSANTE OBSERVAR QUE ALEM DESTA BIBLIOTECA ELE USA O : 
+é interessante observar que alem desta biblioteca ele usa o: 
 
-1. EternalBlue exploit: um exploit de vulnerabilidade SMB (Server Message Block) que se baseia em uma falha de segurança do Windows. Ja foi muito usado no Metasploit. O mesmo permite criar um Payload que cria um "Bypass" no Windows fazendo com que o Meterpreter ou BackDoor não seja avistada. 
+  ☠️ EternalBlue exploit: um exploit de vulnerabilidade SMB (Server Message Block) que se baseia em uma falha de segurança do Windows. Ja foi muito usado no Metasploit. O mesmo permite criar um Payload que cria um "Bypass" no Windows fazendo com que o Meterpreter ou BackDoor não seja avistada. 
 
-2. DoublePulsar backdoor: um backdoor que é implantado em sistemas vulneráveis ​​pelo EternalBlue exploit.
+  ☠️ DoublePulsar backdoor: um backdoor que é implantado em sistemas vulneráveis ​​pelo EternalBlue exploit.
 
-3. Criptografia RSA e AES: o WannaCry usa a criptografia RSA para criptografar a chave AES que é usada para criptografar os arquivos do usuário.
+  ☠️ Criptografia RSA e AES: o WannaCry usa a criptografia RSA para criptografar a chave AES que é usada para criptografar os arquivos do usuário.
 
-4. Tor network: o ransomware se comunica com seu servidor de comando e controle (C&C) por meio da rede Tor para evitar ser rastreado.
+  ☠️ Tor network: o ransomware se comunica com seu servidor de comando e controle (C&C) por meio da rede Tor para evitar ser rastreado.
 
-5. Bitcoin: o WannaCry exige um pagamento em Bitcoin para descriptografar os arquivos do usuário.
+  ☠️ Bitcoin: o WannaCry exige um pagamento em Bitcoin para descriptografar os arquivos do usuário.
 
-6. Windows API: o ransomware usa várias funções da API do Windows para se espalhar pela rede e criptografar arquivos. 
+  ☠️ Windows API: o ransomware usa várias funções da API do Windows para se espalhar pela rede e criptografar arquivos. 
