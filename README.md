@@ -49,7 +49,7 @@ Podemos usa-lo como um "Exploit em .bat" com um Digispark (ATtiny85), que uma ve
 
 ![alt text](https://i.ibb.co/5c3HNJw/2023-04-18-17-02-23.png)
 
-O script foi construido com base na minha engenharia reversa no proprio ransomware do wannacry para ver suas bibliotecas que foram usadas junto com suas api's. durante meus estudos, por padrão ele tambem usa a cifra aes (advanced encryption standard) com base em uma chave em de 128 bit's para criptografia.
+O script foi construido com base na minha Engenharia Reversa no proprio ransomware do wannacry para ver suas bibliotecas que foram usadas junto com suas api's. durante meus testes, por padrão ele tambem usa a cifra aes (Advanced Encryption Standard) com base em uma chave em de 128 bit's para criptografia.
 
 é interessante observar que alem desta biblioteca ele usa o: 
 
