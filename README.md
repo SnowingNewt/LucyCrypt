@@ -1,7 +1,7 @@
 ![alt text](https://thumbs.dreamstime.com/b/tela-de-computador-com-alertas-do-ataque-do-ransomware-no-vermelho-e-em-um-hacke-92535628.jpg)
 
 # LucyCrypt
-![alt text](https://ibb.co/3Ft5q1y)
+![alt text](https://i.ibb.co/vd2CG1x/345345345-1.gif)
 Meus script's simples para demonstrações de ataques de Ransomware. 
     
     💀 Pode ser compilado e usado junto com um script para Ruberduck ou Digispark. 
