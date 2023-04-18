@@ -6,15 +6,25 @@ Ele começa importando três bibliotecas: os, hashlib e Crypto.Cipher, onde os �
 
 
  ☠️ Define o tamanho do bloco.
+ 
  ☠️ Gera uma chave de criptografia a partir do hash SHA-256 da senha.
+ 
  ☠️ Define o vetor de inicialização (IV) para a criptografia.
+ 
  ☠️ Cria um objeto AES para criptografar os dados.
+ 
  ☠️ Abre o arquivo original para leitura.
+ 
  ☠️ Cria o arquivo de saída para escrita.
+ 
  ☠️ Escreve o IV no início do arquivo criptografado.
+ 
  ☠️ Lê o arquivo original em blocos e criptografa cada bloco.
+ 
  ☠️ Adiciona preenchimento para o último bloco se necessário.
+ 
  ☠️ Criptografa o bloco e escreve no arquivo criptografado.
+ 
  ☠️ Apaga o arquivo original.
 
 
