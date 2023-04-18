@@ -23,14 +23,14 @@ O SCRIPT FOI CONSTRUIDO COM BASE NA MINHA ENGENHARIA REVERSA NO PROPRIO RANSOMWA
 
 É INTERESSANTE OBSERVAR QUE ALEM DESTA BIBLIOTECA ELE USA O : 
 
-# EternalBlue exploit: um exploit de vulnerabilidade SMB (Server Message Block) que se baseia em uma falha de segurança do Windows. Ja foi muito usado no Metasploit. O mesmo permite criar um Payload que cria um "Bypass" no Windows fazendo com que o Meterpreter ou BackDoor não seja avistada. 
+1. EternalBlue exploit: um exploit de vulnerabilidade SMB (Server Message Block) que se baseia em uma falha de segurança do Windows. Ja foi muito usado no Metasploit. O mesmo permite criar um Payload que cria um "Bypass" no Windows fazendo com que o Meterpreter ou BackDoor não seja avistada. 
 
-# DoublePulsar backdoor: um backdoor que é implantado em sistemas vulneráveis ​​pelo EternalBlue exploit.
+2. DoublePulsar backdoor: um backdoor que é implantado em sistemas vulneráveis ​​pelo EternalBlue exploit.
 
-# Criptografia RSA e AES: o WannaCry usa a criptografia RSA para criptografar a chave AES que é usada para criptografar os arquivos do usuário.
+3. Criptografia RSA e AES: o WannaCry usa a criptografia RSA para criptografar a chave AES que é usada para criptografar os arquivos do usuário.
 
-# Tor network: o ransomware se comunica com seu servidor de comando e controle (C&C) por meio da rede Tor para evitar ser rastreado.
+4. Tor network: o ransomware se comunica com seu servidor de comando e controle (C&C) por meio da rede Tor para evitar ser rastreado.
 
-# Bitcoin: o WannaCry exige um pagamento em Bitcoin para descriptografar os arquivos do usuário.
+5. Bitcoin: o WannaCry exige um pagamento em Bitcoin para descriptografar os arquivos do usuário.
 
-# Windows API: o ransomware usa várias funções da API do Windows para se espalhar pela rede e criptografar arquivos. 
+6. Windows API: o ransomware usa várias funções da API do Windows para se espalhar pela rede e criptografar arquivos. 
