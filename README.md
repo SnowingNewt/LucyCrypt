@@ -1,3 +1,5 @@
+![alt text](https://thumbs.dreamstime.com/b/tela-de-computador-com-alertas-do-ataque-do-ransomware-no-vermelho-e-em-um-hacke-92535628.jpg)
+
 # LucyCrypt
 Meu codigo de script simples para demonstração de Ransomware. * Pode ser compilado e usado junto com um script para Ruberduck ou Digispark. Caso seja em sistemas Windows pode ser necessário reescreve-lo para CMD
 
