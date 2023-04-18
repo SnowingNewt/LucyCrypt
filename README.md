@@ -6,6 +6,7 @@ Ele começa importando três bibliotecas: os, hashlib e Crypto.Cipher, onde os �
 
 Em seguida, define a senha que será usada para criptografia. Em seguida, define uma função para criptografar um arquivo, que faz o seguinte:
 
+
  ☠️ Define o tamanho do bloco.
  ☠️ Gera uma chave de criptografia a partir do hash SHA-256 da senha.
  ☠️ Define o vetor de inicialização (IV) para a criptografia.
@@ -17,6 +18,7 @@ Em seguida, define a senha que será usada para criptografia. Em seguida, define
  ☠️ Adiciona preenchimento para o último bloco se necessário.
  ☠️ Criptografa o bloco e escreve no arquivo criptografado.
  ☠️ Apaga o arquivo original.
+
 
 ![alt text](https://thumbs.dreamstime.com/b/tela-de-computador-com-alertas-do-ataque-do-ransomware-no-vermelho-e-em-um-hacke-92535628.jpg)
 
