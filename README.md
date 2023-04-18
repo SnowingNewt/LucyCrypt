@@ -4,8 +4,7 @@
                                                                                                    
 ![alt text](https://i.ibb.co/CJ93sNY/VID-20230418-170612.gif)
 
-Meus script's simples para demonstrações de ataques de Ransomware. 
-    
+    🎩 Meus script's simples para demonstrações de ataques de Ransomware. 
     💀 Pode ser compilado e usado junto com um script para Ruberduck ou Digispark. 
     💀 Caso seja em sistemas Windows pode ser usado o script em ".bat" para CMD.
 
