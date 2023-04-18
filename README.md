@@ -1,3 +1,23 @@
+# O QUE FAZ O LUCYCRYPT?
+
+Esse script em Python permite que criptografar todos os arquivos em um diretório local usando a cifra simétrica AES (Advanced Encryption Standard) com o modo CBC (Cipher Block Chaining) e preenchimento PKCS7.
+
+Ele começa importando três bibliotecas: os, hashlib e Crypto.Cipher, onde os é usada para lidar com o sistema operacional, hashlib para gerar um hash SHA-256 da senha fornecida, e Crypto.Cipher para a cifragem.
+
+Em seguida, define a senha que será usada para criptografia. Em seguida, define uma função para criptografar um arquivo, que faz o seguinte:
+
+ ☠️ Define o tamanho do bloco.
+ ☠️ Gera uma chave de criptografia a partir do hash SHA-256 da senha.
+ ☠️ Define o vetor de inicialização (IV) para a criptografia.
+ ☠️ Cria um objeto AES para criptografar os dados.
+ ☠️ Abre o arquivo original para leitura.
+ ☠️ Cria o arquivo de saída para escrita.
+ ☠️ Escreve o IV no início do arquivo criptografado.
+ ☠️ Lê o arquivo original em blocos e criptografa cada bloco.
+ ☠️ Adiciona preenchimento para o último bloco se necessário.
+ ☠️ Criptografa o bloco e escreve no arquivo criptografado.
+ ☠️ Apaga o arquivo original.
+
 ![alt text](https://thumbs.dreamstime.com/b/tela-de-computador-com-alertas-do-ataque-do-ransomware-no-vermelho-e-em-um-hacke-92535628.jpg)
 
 # 🔥LucyCrypt🔥
