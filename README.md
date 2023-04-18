@@ -1,13 +1,7 @@
 ![alt text](https://thumbs.dreamstime.com/b/tela-de-computador-com-alertas-do-ataque-do-ransomware-no-vermelho-e-em-um-hacke-92535628.jpg)
 
-# LucyCrypt
-
-██      ██    ██  ██████ ██    ██  ██████ ██████  ██    ██ ██████  ████████ 
-██      ██    ██ ██       ██  ██  ██      ██   ██  ██  ██  ██   ██    ██    
-██      ██    ██ ██        ████   ██      ██████    ████   ██████     ██    
-██      ██    ██ ██         ██    ██      ██   ██    ██    ██         ██    
-███████  ██████   ██████    ██     ██████ ██   ██    ██    ██         ██    
-                                                                                                    
+# ![alt text](https://gifs.eco.br/wp-content/uploads/2022/02/gifs-animados-de-fogo-2.gif) LucyCrypt ![alt text](https://gifs.eco.br/wp-content/uploads/2022/02/gifs-animados-de-fogo-2.gif)
+                                                                                                   
 
 ![alt text](https://i.ibb.co/vd2CG1x/345345345-1.gif)
 Meus script's simples para demonstrações de ataques de Ransomware. 
