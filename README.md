@@ -14,5 +14,4 @@ Meus script's simples para demonstrações de ataques de Ransomware.
 
 ❌❌❌ ANTENÇÃO PERIGO! ❌❌❌ Criei este script para fins educacionais. 
 
-Podemos usa-lo como um "Exploit em .bat" com um Digispark,  que uma vez inserido na porta, poderá portanto realizar um ataque HID que infectara toda a pasta (C:) do Windows 
-Outra dica de uso é move-lo para um diretório escondido, criar um atalho para a Área de Trabalho e alterar seu ícone para algum ícone de Software que a pessoa use (por exemplo um Browser). Assim quando for executa-lo, todo sistema pode ser derrubado. >: 
+Podemos usa-lo como um "Exploit em .bat" com um Digispark (ATtiny85), que uma vez inserido na porta, poderá portanto realizar um ataque HID que infectara toda a pasta (C:) do Windows. Outra dica de uso é move-lo para um diretório escondido, criar um atalho para a Área de Trabalho e alterar seu ícone para algum ícone de Software que a pessoa use (por exemplo um Browser). Assim quando for executa-lo, todo sistema pode ser derrubado. >: Também pode ser feito se programdo em Arduino (C++)
