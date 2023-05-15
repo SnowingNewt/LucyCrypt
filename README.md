@@ -1,3 +1,4 @@
+![alt text](https://i.ibb.co/wpWWsvt/lucycrypt-14-05-2023.png)
 # O QUE FAZ O LUCYCRYPT?
 
 Esse script que escrevi em Python permite criptografar todos os arquivos em um diretório local usando a cifra simétrica AES (Advanced Encryption Standard) com o modo CBC (Cipher Block Chaining) e preenchimento PKCS7.
