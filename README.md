@@ -1,3 +1,6 @@
+![lucycrypt-14-05-2023](https://github.com/SnowingNewt/LucyCrypt/assets/91566884/e7961c1c-0b9c-4ec9-b5b9-b1a362b7ef74)
+
+
 ![alt text](https://i.ibb.co/wpWWsvt/lucycrypt-14-05-2023.png)
 # O QUE FAZ O LUCYCRYPT?
 
