@@ -66,7 +66,7 @@ O script foi construido com base na minha Engenharia Reversa no proprio ransomwa
 
   ☠️ Windows API: o ransomware usa várias funções da API do Windows para se espalhar pela rede e criptografar arquivos. 
   
-
+<h1 align="center"> Testado no Windows 7 & 10! </h1>
 https://github.com/SnowingNewt/LucyCrypt/assets/91566884/38ee57e9-3a2a-4333-b4d6-70c3a6121a0b
 
 
