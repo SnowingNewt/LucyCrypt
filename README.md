@@ -54,23 +54,23 @@ O script foi construido com base na minha Engenharia Reversa no proprio ransomwa
 
 é interessante observar que alem desta biblioteca ele usa o: 
 
-  ☠️ EternalBlue exploit: um exploit de vulnerabilidade SMB (Server Message Block) que se baseia em uma falha de segurança do Windows. Ja foi muito usado no Metasploit. O mesmo permite criar um Payload que cria um "Bypass" no Windows fazendo com que o Meterpreter ou BackDoor não seja avistada. 
+    ☠️ EternalBlue exploit: um exploit de vulnerabilidade SMB (Server Message Block) que se baseia em uma falha de segurança do Windows. Ja foi muito usado no Metasploit. O mesmo permite criar um Payload que cria um "Bypass" no Windows fazendo com que o Meterpreter ou BackDoor não seja avistada. 
 
-  ☠️ DoublePulsar backdoor: um backdoor que é implantado em sistemas vulneráveis ​​pelo EternalBlue exploit.
+    ☠️ DoublePulsar backdoor: um backdoor que é implantado em sistemas vulneráveis ​​pelo EternalBlue exploit.
 
-  ☠️ Criptografia RSA e AES: o WannaCry usa a criptografia RSA para criptografar a chave AES que é usada para criptografar os arquivos do usuário.
+    ☠️ Criptografia RSA e AES: o WannaCry usa a criptografia RSA para criptografar a chave AES que é usada para criptografar os arquivos do usuário.
 
-  ☠️ Tor network: o ransomware se comunica com seu servidor de comando e controle (C&C) por meio da rede Tor para evitar ser rastreado.
+    ☠️ Tor network: o ransomware se comunica com seu servidor de comando e controle (C&C) por meio da rede Tor para evitar ser rastreado.
 
-  ☠️ Bitcoin: o WannaCry exige um pagamento em Bitcoin para descriptografar os arquivos do usuário.
+    ☠️ Bitcoin: o WannaCry exige um pagamento em Bitcoin para descriptografar os arquivos do usuário.
 
-  ☠️ Windows API: o ransomware usa várias funções da API do Windows para se espalhar pela rede e criptografar arquivos. 
+    ☠️ Windows API: o ransomware usa várias funções da API do Windows para se espalhar pela rede e criptografar arquivos. 
   
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
 </p>
 
-# Testado no Windows 7 & 10!
+# Testado no Windows 7 e 10!
 https://github.com/SnowingNewt/LucyCrypt/assets/91566884/38ee57e9-3a2a-4333-b4d6-70c3a6121a0b
 
 
