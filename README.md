@@ -69,6 +69,7 @@ O script foi construido com base na minha Engenharia Reversa no proprio ransomwa
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
+
 # Testado no Windows 7 & 10!
 https://github.com/SnowingNewt/LucyCrypt/assets/91566884/38ee57e9-3a2a-4333-b4d6-70c3a6121a0b
 
