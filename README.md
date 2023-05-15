@@ -65,3 +65,8 @@ O script foi construido com base na minha Engenharia Reversa no proprio ransomwa
   ☠️ Bitcoin: o WannaCry exige um pagamento em Bitcoin para descriptografar os arquivos do usuário.
 
   ☠️ Windows API: o ransomware usa várias funções da API do Windows para se espalhar pela rede e criptografar arquivos. 
+  
+https://github.com/SnowingNewt/LucyCrypt/assets/91566884/50747839-9059-4a8b-a57d-ad2fa662730a
+
+
+  
