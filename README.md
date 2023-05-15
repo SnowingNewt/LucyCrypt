@@ -66,6 +66,7 @@ O script foi construido com base na minha Engenharia Reversa no proprio ransomwa
 
     ☠️ Windows API: o ransomware usa várias funções da API do Windows para se espalhar pela rede e criptografar arquivos. 
   
+
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
 </p>
